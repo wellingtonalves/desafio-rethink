@@ -1,4 +1,4 @@
-# Rethink Tech Avaliation Interview
+# Rethink Tech Interview
 
 <br>
 
