@@ -4,7 +4,7 @@
 
 ### Configurações do projeto:
 
-- Configurar o projeto com typescript.
+- Configurar o projeto com `typescript`.
 - Gerar build na pasta `./dist`.
 - usar a lib `npm-run-all` e `ts-node` para limpar, buildar e rodar o script da pasta `./dist`.
 - Criar branch com seu nome `test/seu-nome`.
@@ -45,7 +45,9 @@ export type TypeFakePeople = {
 - Média de idade por empresa.
 
 ```
-const groupBy => (data: FakeItemType[], propriedade: string) => {}
+const groupBy = (data: FakeItemType[], propriedade: string) => {
+  // your code here.
+}
 
 ex:
 groupBy(fakeData, "company")
