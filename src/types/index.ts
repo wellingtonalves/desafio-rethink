@@ -1,4 +1,4 @@
-export type FakeItemType = {
+export type TypeFakePeople = {
   email: string;
   salary: string;
   title: string;

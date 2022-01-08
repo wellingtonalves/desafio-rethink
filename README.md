@@ -45,7 +45,7 @@ export type TypeFakePeople = {
 - Média de idade por empresa.
 
 ```
-const groupBy = (data: FakeItemType[], propriedade: string) => {
+const groupBy = (data: TypeFakePeople[], propriedade: string) => {
   // your code here.
 }
 

@@ -1,9 +1,9 @@
 import { fakeData } from "./data";
-import { FakeItemType } from "./types";
+import { TypeFakePeople } from "./types";
 
-const groupBy = (fakeData: FakeItemType[], propriedade: string) => {
+const groupBy = (fakeData: TypeFakePeople[], propriedade: string) => {
   // your code here.
-}
+};
 
-const companies = groupBy(fakeData, "company");
-console.table(companies);
+const info = groupBy(fakeData, "company");
+console.table(info);
