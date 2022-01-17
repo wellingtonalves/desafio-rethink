@@ -1,6 +1,6 @@
-import { FakeItemType } from "../types";
+import { TypeFakePeople } from "../types";
 
-export const fakeData: FakeItemType[] = [
+export const fakeData: TypeFakePeople[] = [
   {
     full_name: "Penelope Barber",
     email: "penelopebarber@google.com",
