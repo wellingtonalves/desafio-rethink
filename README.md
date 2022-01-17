@@ -36,7 +36,7 @@ export type TypeFakePeople = {
 
 <br>
 
-**Gostariamos de extrair as seguintes informcões:**
+**Gostariamos de extrair as seguintes informações:**
 
 - Número de pessoas que trabalham na mesma empresa.
 - Ordenar de forma crescente.
